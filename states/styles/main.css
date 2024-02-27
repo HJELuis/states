@@ -1,0 +1,23 @@
+.main-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+.main-container .card {
+  margin-top: 20px;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+body .card {
+  width: 11rem;
+}
+body .accordion-body p {
+  font-weight: 400;
+}/*# sourceMappingURL=main.css.map */
